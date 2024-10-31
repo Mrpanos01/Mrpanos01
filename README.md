@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrpanos01
 - 👀 I’m interested in Programming & computer science
-- 🌱 I’m currently learning Cyber security
+- 🌱 I’m currently learning Cyber Security
 - 😄 Pronouns: he/him
 
 <!---
